@@ -1,0 +1,2 @@
+rootProject.name = "loginUIPractice2"
+include ':app'
